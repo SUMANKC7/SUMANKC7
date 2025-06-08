@@ -62,17 +62,12 @@
 
 ---
 
-<div align="center">
-  <h3>📊 My GitHub Stats</h3>
-  <br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SUMANKC7&show_icons=true&locale=en&theme=tokyonight" alt="SUMANKC7 GitHub Stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SUMANKC7&theme=tokyonight" alt="SUMANKC7 Streak Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SUMANKC7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="SUMANKC7 Top Languages" />
-  <br /><br />
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=SUMANKC7&theme=tokyonight" alt="SUMANKC7 Trophies" />
-  <br /><br />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SUMANKC7&theme=tokyonight&area=true" alt="SUMANKC7 Contribution Calendar" />
+<div align="center" style="padding: 20px; margin: 0 auto; max-width: 800px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SUMANKC7&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="display: block; margin: 10px auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUMANKC7&theme=tokyonight" alt="Streak Stats" style="display: block; margin: 10px auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SUMANKC7&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" style="display: block; margin: 10px auto;" />
 </div>
+
 
 
 ---
