@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7B731&center=true&width=600&lines=Flutter+%7C+Firebase+%7C+Kotlin;Let's+build+amazing+Apps+%F0%9F%93%B1" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <!-- 🔥 LIVE VIEW COUNTER -->
-  <img src="https://komarev.com/ghpvc/?username=SUMANKC7&color=brightgreen" alt="Profile Views" />
-</p>
 
 <br/>
 
@@ -17,6 +13,7 @@
 </div>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SumanKC7&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" /> </p>
 
 ### 👨‍💻 About Me
 
