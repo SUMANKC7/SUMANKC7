@@ -2,7 +2,7 @@
 <h3 align="center"> A Passionate App Developer on a Mission to Build Amazing Things </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7B731&center=true&width=600&lines= FFlutter+%7C+Firebase+%7C+Python+%7C+Kotlin+%7C+ML+Learner;Let's+build+amazing+Apps+%F0%9F%93%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7B731&center=true&width=600&lines= Flutter+%7C+Firebase+%7C+Python+%7C+Kotlin+%7C+ML+Learner;Let's+build+amazing+Apps+%F0%9F%93%B1" alt="Typing SVG" />
 </p>
 
 <br/>
