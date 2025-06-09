@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Suman</h1>
-<h3 align="center"> A Passionate App Developer on a Mission to Build Amazing Things </h3>
+<h3 align="center">A Passionate App Developer on a Mission to Build Amazing Things</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7B731&center=true&width=600&lines=Flutter+%7C+Firebase+%7C+Kotlin;Let's+build+amazing+Apps+%F0%9F%93%B1" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <!-- 🔥 LIVE VIEW COUNTER -->
+  <img src="https://komarev.com/ghpvc/?username=SUMANKC7&color=brightgreen" alt="Profile Views" />
 </p>
 
 <br/>
