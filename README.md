@@ -51,16 +51,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUMANKC7&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="500"/>
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUMANKC7&theme=tokyonight" alt="GitHub Streak" width="500"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SUMANKC7&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" width="500"/>
-</div>
-
 ---
 
 ### ⭐ Let's Build Something Awesome Together!
